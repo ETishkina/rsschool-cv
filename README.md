@@ -1,1 +1,1 @@
-# rsschool-cv
+https://etishkina.github.io/rsschool-cv
