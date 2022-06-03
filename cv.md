@@ -6,7 +6,7 @@
     Discord: Elenka(@ETishkina)
     E-mail: tishkinalena@gmail.com
     Tel: +79261689238
-    telegram: https://t.me/ltishka
+    telegram: @ltishka
 
 ## About myself:
 
