@@ -13,11 +13,11 @@ I want to learn Front-End Development in RSSchool!
 
 ## Skills:
 
-    *HTML5, CSS3
-    *JavaScript Basics
-    *Git, GitHub
-    *VS Code
-    *Figma
+    * HTML5, CSS3
+    * JavaScript Basics
+    * Git, GitHub
+    * VS Code
+    * Figma
 
 
 ## Code example
