@@ -1,4 +1,5 @@
 # Elena Tishkina
+![Elena's photo](img/elena.jpg)
 
 ## Contacts:
 
